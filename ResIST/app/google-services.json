@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500317826346",
+    "firebase_url": "https://resist-5e8f2.firebaseio.com",
+    "project_id": "resist-5e8f2",
+    "storage_bucket": "resist-5e8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500317826346:android:63f873c836faff8d628253",
+        "android_client_info": {
+          "package_name": "com.example.resist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500317826346-be5s5ttf4rvh5ckl52pjmk8q6ehtffa0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resist",
+            "certificate_hash": "2c127a582cb289b539753233870fed84edac9d05"
+          }
+        },
+        {
+          "client_id": "500317826346-qp7p2qe6sium4tm1e9sk5a191u1cmpqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-xI4XZANZI6IPiaPBpB5Lz9Y_sFnQQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500317826346-qp7p2qe6sium4tm1e9sk5a191u1cmpqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

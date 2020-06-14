@@ -1,0 +1,2 @@
+rootProject.name='ResIST'
+include ':app'
